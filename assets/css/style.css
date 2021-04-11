@@ -1,0 +1,25 @@
+@media only screen and (min-width: 768px) {
+    .screenPage {
+        width: 604px;
+        border-left: solid 0.5px #cccccc;
+        min-height: 100vh;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .screenPage {
+        width: 777.48px;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    .screenPage {
+        width: 1013px;
+    }
+}
+
+@media only screen and (min-width: 1536px) {
+    .screenPage {
+        width: 1217.8px;
+    }
+}
